@@ -10,3 +10,5 @@ for confortable native use
 
 For this reason, the ffmepg and youtube_dl libraries
 must be downloaded separately.
+
+Also while downloading a file it tends to go into a 'Not Responding' state
