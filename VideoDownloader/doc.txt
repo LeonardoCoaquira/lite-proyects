@@ -7,3 +7,6 @@ Right now I can't find a solution to install libraries:
 ffmepg
 youtube_dl
 for confortable native use
+
+For this reason, the ffmepg and youtube_dl libraries
+must be downloaded separately.
