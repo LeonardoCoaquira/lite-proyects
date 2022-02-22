@@ -2,3 +2,8 @@ Comments!
 
 This app is used to download videos, audios
 and select where to download them
+
+Right now I can't find a solution to install libraries:
+ffmepg
+youtube_dl
+for confortable native use
